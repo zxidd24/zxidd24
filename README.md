@@ -17,21 +17,17 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxidd24&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxidd24&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxidd24&theme=default&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/zxidd24/zxidd24/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=zxidd24&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" style="display:block;margin:0;padding:0;line-height:0;width:100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxidd24&theme=default&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" style="display:block;margin:8px 0 0 0;padding:0;line-height:0;width:100%" />
+</td>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/zxidd24/zxidd24/main/github-metrics.svg" style="display:block;margin:0;padding:0;line-height:0;width:100%" />
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
