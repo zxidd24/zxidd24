@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](./metrics.svg)
+![Metrics](.github/workflows/metrics.svg)
