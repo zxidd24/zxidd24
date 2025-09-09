@@ -1,0 +1,40 @@
+name: Metrics
+on:
+  # 计划更新 (每天UTC时间0点，即北京时间8点运行)
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许手动触发工作流
+  workflow_dispatch:
+  # 推送到 main 分支时也运行
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 你的 GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 选项 - 根据你的需求配置
+          user: zxidd24
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base.indepth: false
+          base.hireable: false
+          base.skip: false
+          config_timezone: Asia/Shanghai
+
+          # 输出设置：生成 metrics.svg 文件
+          output: metrics.svg
+          
+      # 额外的步骤：自动提交生成的 SVG 文件
+      - name: Commit and push metrics
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.svg
+          git commit -m "Update metrics" || echo "No changes to commit"
+          git push
