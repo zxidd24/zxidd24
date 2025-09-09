@@ -1,5 +1,9 @@
 # Hi there 👋
 
+### 🐍 Contribution Snake
+![snake light](./dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ## 📊 GitHub Statistics
 
 <table>
