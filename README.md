@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1E90FF&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+ZXIDD+%F0%9F%91%8B;Welcome+!" alt="typing title" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1E90FF&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%EF%BC%81;Welcome!" alt="typing title" />
 </div>
 
 ![snake light](./dist/github-contribution-grid-snake.svg#gh-light-mode-only)
