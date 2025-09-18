@@ -6,9 +6,7 @@
 ![snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zxidd24/zxidd24/main/github-metrics.svg" style="display:block;margin:8px auto 8px auto;padding:0;line-height:0;width:60%;max-width:900px" />
-</div>
+
 
 
 <div align="center">
