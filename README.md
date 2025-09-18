@@ -1,21 +1,14 @@
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1E90FF&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%EF%BC%81;Welcome!" alt="typing title" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1E90FF&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+ZXIDD+%F0%9F%91%8B;Welcome+!" alt="typing title" />
 </div>
 
 ![snake light](./dist/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxidd24&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight" style="display:block;margin:0;padding:0;line-height:0;width:100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxidd24&theme=tokyonight&hide_border=true" style="display:block;margin:8px 0 0 0;padding:0;line-height:0;width:100%" />
-</td>
-<td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/zxidd24/zxidd24/main/github-metrics.svg" style="display:block;margin:0;padding:0;line-height:0;width:100%" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zxidd24/zxidd24/main/github-metrics.svg" style="display:block;margin:8px auto 8px auto;padding:0;line-height:0;width:60%;max-width:900px" />
+</div>
 
 
 <div align="center">
