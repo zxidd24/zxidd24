@@ -20,7 +20,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxidd24&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" />
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zxidd24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
