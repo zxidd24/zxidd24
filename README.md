@@ -17,6 +17,11 @@
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zxidd24&theme=2077" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zxidd24&theme=2077" width="30%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxidd24&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
