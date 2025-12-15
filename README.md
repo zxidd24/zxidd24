@@ -5,8 +5,6 @@
 ![snake light](./dist/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,14 +16,8 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxidd24&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zxidd24&theme=flat&no-frame=true&row=1&column=7" />
 </div>
 
 ---
