@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:4FC08D&height=220&section=header&text=ZZZXXX&fontSize=80&fontAlignY=38&fontColor=ffffff&desc=Hi%2C+welcome+to+my+GitHub&descAlignY=62&descSize=22&descColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:4FC08D&height=220&section=header&text=Hello&fontSize=80&fontAlignY=38&fontColor=ffffff&desc=welcome+to+my+GitHub&descAlignY=62&descSize=22&descColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -25,9 +25,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zxidd24&theme=2077" width="30%" />
 </div>
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zxidd24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
