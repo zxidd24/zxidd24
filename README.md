@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1E90FF&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+ZXIDD+%F0%9F%91%8B;Welcome+!" alt="typing title" />
 </div>
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=zxidd24&theme=2077&hide_border=true" width="70%" />
+</div>
+
+
 ![snake light](./dist/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
@@ -26,6 +32,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" />
 </p>
+
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zxidd24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
