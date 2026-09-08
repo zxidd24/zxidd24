@@ -2,7 +2,7 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 0 * * 1"   # 每周一次
+    - cron: "0 */12 * * *"   # 每 12 小时更新一次
   workflow_dispatch:
 
 permissions:
