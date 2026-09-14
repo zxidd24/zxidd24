@@ -1,9 +1,9 @@
 <!-- ===== 顶部标题（typing-svg 打字机，无背景；用 picture 按主题切换亮/暗配色） ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F9C80E&center=true&vCenter=true&width=800&height=90&lines=ZXIDD" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=800&height=90&lines=ZXIDD" />
-  <img alt="typing title" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=800&height=90&lines=ZXIDD" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F9C80E&center=true&vCenter=true&width=800&height=90&lines=Hello" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=800&height=90&lines=Hello" />
+  <img alt="typing title" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=800&height=90&lines=Hello" />
 </picture>
 </div>
 
