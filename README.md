@@ -29,10 +29,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zxidd24&theme=2077" width="30%" />
 </div>
 
-<!-- ===== 随机名言卡（浅色背景） ===== -->
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</div>
 
 <!-- ===== 访客计数 ===== -->
 <div align="center">
